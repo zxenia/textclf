@@ -2,4 +2,4 @@
 
 Machine learning practice (mostly text classification tasks)
 
-scikit-learn, numpy, pandas and matplotlib
+scikit-learn, keras, numpy, pandas and matplotlib
